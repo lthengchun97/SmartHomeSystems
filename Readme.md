@@ -41,3 +41,4 @@ Mock the following functions
 void getGpsCoordinate(GpsCoordinate *gps);
 void turn(Device device, State state);
 ```
+# SmartHomeSystem
