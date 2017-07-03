@@ -8,9 +8,7 @@ struct GpsCoordinate {
   float y;   
 };
  
-void getGpsCoordinate(GpsCoordinate *gps);
-
-typedef comstant {
+typedef enum {
   GARAGE_DOOR,
   KITCHEN_LIGHT,
   AIRCOND,
